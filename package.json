@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Javascript mediator library to subscribe methods to certain events.",
   "author": "Aldo Gonzalez <aldogcarlos@gmail.com>",
-  "main": "./src/simple-mediator.js",
+  "main": "./src/simple-mediator-helper.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aldogcarlos/simple-mediator"
+    "url": "https://github.com/aldogcarlos/simple-mediator-helper"
   },
   "keywords": [
     "helper",
